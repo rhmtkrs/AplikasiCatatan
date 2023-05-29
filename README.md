@@ -4,11 +4,11 @@
 # Screenshot
  Info Menu Awal<br>
 <img src="asset/info-main-slide1.png" alt="Kalkulator" width="200" height="400">
- Daftar Catatan
+ Daftar Catatan<br>
 <img src="asset/notes-daftar-catatan.png" alt="Kalkulator" width="200" height="400">
- Tambah Catatan
+ Tambah Catatan<br>
 <img src="asset/notes-tambah-catatan.png" alt="Kalkulator" width="200" height="400">
- Edit Catatan
+ Edit Catatan<br>
 <img src="asset/notes-edit-catatan.png" alt="Kalkulator" width="200" height="400">
- Hapus Catatan
+ Hapus Catatan<br>
  <img src="asset/notes-hapus-catatan.png" alt="Kalkulator" width="200" height="400">
